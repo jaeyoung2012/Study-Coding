@@ -1,2 +1,3 @@
-User-agent: *Allow:/
+User-agent: *
+Allow:/
 sitemap: https://study-coding.netlify.app/sitemap.xml
