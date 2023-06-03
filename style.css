@@ -26,3 +26,11 @@ p,h2 {
 li {
    font-size: smaller;
    }
+
+a {
+    text-decoration: none;
+    color: black;
+}
+ul {
+    font-size: 15pt;
+}
